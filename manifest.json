@@ -2,9 +2,10 @@
   "name": "Srv Telecom",
   "short_name": "Srv Telecom",
   "description": "বিকাশ এজেন্ট ক্যাশ-ইন ও ক্যাশ-আউট ট্র্যাকার",
-  "start_url": "/",
+  "start_url": "/Srv/",
+  "scope": "/Srv/",
   "display": "standalone",
-  "background_color": "#0f1923",
+  "background_color": "#ffffff",
   "theme_color": "#00a651",
   "orientation": "portrait",
   "icons": [
